@@ -1,4 +1,4 @@
-# bavaria
+# baveria
 proyecto de ejemplo para el grupo
 
 john alexander
