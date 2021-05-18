@@ -40,3 +40,5 @@ PRUEBA GIT PULL
 [git pull] --> actualizar trae los cambios que esten en mi repositorio 
 
 [git stash] --> Para reservar(dejar temporalmente en un espacio) los cambios sin afectar el proyecto local.
+
+agregue algo al readme.
