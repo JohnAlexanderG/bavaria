@@ -42,3 +42,5 @@ PRUEBA GIT PULL
 [git stash] --> Para reservar(dejar temporalmente en un espacio) los cambios sin afectar el proyecto local.
 
 agregue algo al readme.
+
+17/05/2021
