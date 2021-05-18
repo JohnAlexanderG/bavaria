@@ -29,4 +29,12 @@ PRUEBA GIT PULL
 ---------------\.............../
 ----------------\............/
 
+[git status] --> estado de mi repositorio (Proyecto)
 
+[git add nombre_de_archivo] --> agregar al stage area mis cambios 
+
+[git commit -m "comentario"] --> agrega un título etiqueta a mis cambios
+
+[git push] --> envia cambio
+
+[git pull] --> actualizar trae los cambios que esten en mi repositorio 
